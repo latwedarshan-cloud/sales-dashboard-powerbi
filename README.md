@@ -20,4 +20,5 @@ This project analyzes sales data to identify trends, top-performing regions, and
 Improved business decision-making through data visualization
 
 ## 📸 Dashboard Preview:
-![Dashboard](Screenshot2026-03-24210641.png)
+![Dashboard](Screenshot 2026-03-24 210641.png)
+
