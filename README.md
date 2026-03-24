@@ -1,3 +1,6 @@
+## 📸 Dashboard Preview:
+![Dashboard](Screenshot 2026-03-24 210641.png)
+
 # Sales Performance Dashboard
 
 ## 📊 Tools Used:
@@ -19,6 +22,5 @@ This project analyzes sales data to identify trends, top-performing regions, and
 ## 🚀 Outcome:
 Improved business decision-making through data visualization
 
-## 📸 Dashboard Preview:
-![Dashboard](Screenshot 2026-03-24 210641.png)
+
 
