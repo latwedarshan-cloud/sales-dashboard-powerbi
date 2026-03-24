@@ -1,5 +1,5 @@
 ## 📸 Dashboard Preview:
-![Dashboard](Screenshot 2026-03-24 210641.png)
+![Dashboard](dashboard.png)
 
 # Sales Performance Dashboard
 
